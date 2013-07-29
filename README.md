@@ -1,0 +1,4 @@
+namecoin
+========
+
+namecoin domain
